@@ -187,11 +187,9 @@ To build a high-quality collection of DSA solutions that reflects my learning jo
 
 # Contribution Snake
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Priyansh07x/Priyansh07x/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyansh07x/Priyansh07x/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
